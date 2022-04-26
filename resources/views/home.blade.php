@@ -10,6 +10,7 @@
 </head>
 <body>
     <div class="container">
+      <h1 class="page-title">Film Bellissimi</h1>
       <div class="card-wrapper">
         @foreach($movies as $movie)
           <div class="card">
